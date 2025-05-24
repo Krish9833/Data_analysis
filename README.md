@@ -2,6 +2,7 @@
 A small projectc to find essential insights
 
 Mahadev Store Data Analysis
+
 ----------------------------------------------DOWNLOAD THE FILE AND THEN USE README FOR REFRENCE------------------------------------------------------------
 
 This repository contains the data analysis project for the Mahadev Store, carried out using Power BI. The project involves cleaning and manipulating data, followed by creating insightful dashboards and reports.
